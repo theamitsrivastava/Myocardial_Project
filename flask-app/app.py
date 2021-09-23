@@ -76,7 +76,8 @@ n_p_ecg_p_12,K_BLOOD,NA_BLOOD,ALT_BLOOD,AST_BLOOD,L_BLOOD,ROE,TIME_B_S,R_AB_1_n,
     #filePath = outFileFolder + 'randomforest_model.pkl'
     #open file
     #file = open(filePath,"rb")
-    file = open("C:\\Users\\theam\Documents\\Excelr\\Project\\Myocardial\\output\\randomforest_model.pkl","rb")
+    #file = open("C:\\Users\\theam\Documents\\Excelr\\Project\\Myocardial\\output\\randomforest_model.pkl","rb")
+    file = open("randomforest_model.pkl","rb")
     
     
     
